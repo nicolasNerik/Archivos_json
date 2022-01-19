@@ -1,2 +1,2 @@
 # Archivos_json
-Archivos libres de json tomados de diferentes fuentes de uso libre
+Archivos libres con formato json tomados de diferentes fuentes de uso libre
